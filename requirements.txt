@@ -1,4 +1,4 @@
-fastapi[standard]>=0.116,<1.0
-ortools>=9.14,<10.0
-pydantic>=2.11,<3.0
-pydantic-settings>=2.10,<3.0
+fastapi[standard]==0.139.2
+ortools==9.15.6755
+pydantic==2.13.4
+pydantic-settings==2.14.2
